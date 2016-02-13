@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EPi.Cms.DateContainers</id>
+    <version>1.0.0.0</version>
+    <title>EPiServer CMS Date container pages</title>
+    <authors>Jeroen Slor</authors>
+    <owners>Jeroen Slor</owners>    
+    <projectUrl>https://github.com/jeroenslor/epi-cms-date-containers</projectUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds support for date container pages</description>    
+    <copyright>Copyright 2016</copyright>
+    <tags>EPiServer</tags>
+  </metadata>
+</package>
