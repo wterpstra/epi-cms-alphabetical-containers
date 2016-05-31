@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EPi.Cms.DateContainers")]
+[assembly: AssemblyTitle("EPi.Cms.AlphabeticalContainers")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("EPi.Cms.DateContainers")]
+[assembly: AssemblyProduct("EPi.Cms.AlphabeticalContainers")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f857f350-5769-4455-9d19-40624910da19")]
+[assembly: Guid("e98016d3-57ba-46f3-826f-b8048e75a362")]
 
 // Version information for an assembly consists of the following four values:
 //

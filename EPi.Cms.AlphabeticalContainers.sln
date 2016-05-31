@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPi.Cms.DateContainers", "src\EPi.Cms.DateContainers\EPi.Cms.DateContainers.csproj", "{F857F350-5769-4455-9D19-40624910DA19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPi.Cms.AlphabeticalContainers", "src\EPi.Cms.AlphabeticalContainers\EPi.Cms.AlphabeticalContainers.csproj", "{F857F350-5769-4455-9D19-40624910DA19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
